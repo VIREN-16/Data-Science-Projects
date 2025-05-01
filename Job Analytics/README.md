@@ -14,7 +14,7 @@ How to Use:
 
 Clone the Repository:
 Bash
-git clone https://github.com/AgarwalBhavya/job-description-dashboard.git
+git clone (https://github.com/VIREN-16/Data-Science-Projects/tree/main/Job%20Analytics)
 Install Dependencies (if necessary):
 Bash
 cd job-description-dashboard
