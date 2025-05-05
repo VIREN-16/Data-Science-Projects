@@ -8,7 +8,7 @@ Benefits: Targeted Job Search: Identify jobs that best suit your skills and care
 
 How to Use:
 
-Clone the Repository: Bash git clone (https://github.com/VIREN-16/Data-Science-Projects/tree/main/Job%20Analytics) Install Dependencies (if necessary): Bash cd job-description-dashboard pip install -r requirements.txt Explore Job Trends: Use the provided interface to select job titles, skills, locations, or other filtering criteria. Interact with the visualizations to understand the trends in job descriptions. Additional Notes:
+Clone the Repository: Bash git clone (https://github.com/VIREN-16/Data-Science-Projects/tree/main/Job%20Analytics%20Portal) Install Dependencies (if necessary): Bash cd job-description-dashboard pip install -r requirements.txt Explore Job Trends: Use the provided interface to select job titles, skills, locations, or other filtering criteria. Interact with the visualizations to understand the trends in job descriptions. Additional Notes:
 
 Consider mentioning the data source(s) used for your dashboard. If your project has specific technical aspects, feel free to briefly describe them. Welcome contributions and suggestions for improvement through pull requests. Example Usage:
 
